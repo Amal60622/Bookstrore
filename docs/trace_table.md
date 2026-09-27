@@ -7,7 +7,7 @@ This document records the step-by-step intermediate states and trace tables for:
 
 ---
 
-## 1. BST Construction Trace Table
+## 1. BST Construction Trace Table.
 
 - **Given ISBN Insertion Order:** `[45, 20, 60, 10, 30, 50, 70, 25, 55]`
 - **Total Keys ($N$):** 9
