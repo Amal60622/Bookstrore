@@ -1,4 +1,4 @@
-# Trace Tables: Bookstore ISBN Search
+# Trace Tables: Bookstore ISBN Search.
 
 This document records the step-by-step intermediate states and trace tables for:
 1. **Binary Search Tree (BST) Construction**
